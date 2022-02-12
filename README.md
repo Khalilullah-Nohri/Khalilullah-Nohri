@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khalilullah-Nohri
 - 👀 I’m interested in Python ,Java ,Web Development Coding
-- 🌱 I’m currently Gradute in end of 2021 In B.E ComputerSystem
+- 🌱 I’m Fresh Gradute B.E ComputerSystem, end of 2021 
 - 💞️ I’m looking to collaborate with new persons Coding project
 - 📫 Reach me through this gitHub or Linkedin www.linkedin.com/in/khalilullah-nohri-73b712179
 
